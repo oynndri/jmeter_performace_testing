@@ -1,4 +1,4 @@
-# 🧪 JMeter Performance Testing Lab (SE313)
+# 🧪 JMeter Performance Testing 
 
 This repository contains a performance testing project developed using **Apache JMeter (v5.6.3)** for the course Software Quality Assurance and Testing (SE313).
 
